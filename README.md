@@ -6,7 +6,8 @@ The dashboard converts raw retail data into actionable insights, helping busines
 
 📊 Dashboard Preview
 
-🧾 About the Dataset
+🧾 About the Dataset:
+
 -Contains 541,909 transactions
 
 -Covers period Dec 2010 – Dec 2011
@@ -39,7 +40,8 @@ Click here to download
 
 🔍 Key Insights
 
-🛍️ 1. Total Orders & Customer Insights
+🛍️ 1. Total Orders & Customer Insights:
+
 -Total Orders: 398K+
 
 -Total Revenue: £8.9M+
@@ -48,14 +50,16 @@ Click here to download
 
 -Avg Order Cost: £22.40
 
-📦 2. Product Performance
+📦 2. Product Performance:
+
 -Top-selling products by Quantity
 
 -Top revenue-generating items by Profit
 
 -Strong demand patterns for seasonal and everyday products
 
-🌍 3. Country-Level Analysis
+🌍 3. Country-Level Analysis:
+
 -United Kingdom contributes 92% of total orders
 
 -Major revenue contributors include:
@@ -69,11 +73,13 @@ Click here to download
 -🇩🇪 Germany
 
 📅 4. Monthly Revenue Trend:
+
 -Stable growth over the months
 
 -Peak revenue observed in November & December due to festive season
 
 🎨 5. Additional Visuals:
+
 -Heatmap: Avg Order Cost per Month
 
 -Pie Chart: Orders by Country
@@ -81,6 +87,7 @@ Click here to download
 -Bar Charts: Revenue Breakdown & Product-wise Sales
 
 🛠 Tools & Technologies Used:
+
 -Microsoft Excel:	Data cleaning, transformations, initial analysis
 
 -Power Query:	Data type corrections, formatting, column parsing
