@@ -1,4 +1,4 @@
-🛒 # Online Retail Analytics Dashboard
+# Online Retail Analytics Dashboard
 This project provides an end-to-end analysis of Online Retail Sales using Microsoft Excel and Power BI.
 It covers sales performance, customer behavior, product profitability, and revenue trends across multiple countries.
 
@@ -34,7 +34,8 @@ The dashboard converts raw retail data into actionable insights, helping busines
 Because the dataset exceeds GitHub’s upload limit, the full dataset is stored on Google Drive.
 
 🔗 Dataset Download Link
-Click here to download(https://docs.google.com/spreadsheets/d/1kWuHGXjdH4luQQGML_5iuj1TtKItRmnz/edit?usp=drive_link&ouid=113656669766238755581&rtpof=true&sd=true)
+Click here to download
+(https://docs.google.com/spreadsheets/d/1kWuHGXjdH4luQQGML_5iuj1TtKItRmnz/edit?usp=drive_link&ouid=113656669766238755581&rtpof=true&sd=true)
 
 🔍 Key Insights
 
@@ -68,21 +69,24 @@ Click here to download(https://docs.google.com/spreadsheets/d/1kWuHGXjdH4luQQGML
 -🇩🇪 Germany
 
 📅 4. Monthly Revenue Trend:
-
 -Stable growth over the months
+
 -Peak revenue observed in November & December due to festive season
 
 🎨 5. Additional Visuals:
-
 -Heatmap: Avg Order Cost per Month
+
 -Pie Chart: Orders by Country
+
 -Bar Charts: Revenue Breakdown & Product-wise Sales
 
 🛠 Tools & Technologies Used:
-
 -Microsoft Excel:	Data cleaning, transformations, initial analysis
+
 -Power Query:	Data type corrections, formatting, column parsing
+
 -Power BI:	Dashboard creation & visualizations
+
 -DAX:	Calculated measures (Revenue, Avg Order, KPIs)
 
 🚀 How to Run This Project
