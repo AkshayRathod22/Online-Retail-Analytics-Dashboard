@@ -9,76 +9,53 @@ The dashboard turns raw retail data into actionable insights that help businesse
 
 🧾 About the Dataset
 -Contains 541,909 transactions
-
 -Covers period Dec 2010 – Dec 2011
 
 -Includes:
-
 -InvoiceNo
-
 -StockCode
-
 -Product Description
-
 -Quantity
-
 -Invoice Date
-
 -Unit Price
-
 -Customer ID
-
 -Country
-
 -Calculated Revenue
-
 Because the dataset exceeds GitHub’s upload limit (25 MB), the data is stored in Google Drive and linked below:
 
 🔗 Dataset Link:
 https://docs.google.com/spreadsheets/d/1kIwHGXjdH4luQQGML_5iuj1TkItRmnz/edit?usp=drive_link&ouid=113656669766238755581&r...
 
-(You can paste your full link here)
+(https://docs.google.com/spreadsheets/d/1kWuHGXjdH4luQQGML_5iuj1TtKItRmnz/edit?usp=drive_link&ouid=113656669766238755581&rtpof=true&sd=true)
 
 🔍 Key Insights (From Dashboard)
+
 🛍️ 1. Total Orders & Customer Insights
 -Total Orders: 398K+
-
 -Total Revenue: £8.9M+
-
 -Total Customers: 4,338
-
 -Avg Order Cost: £22.40
 
 📦 2. Product Performance
 -Top-selling products by Quantity
-
 -Top revenue-generating products by Profit
-
 -Clear demand trends for seasonal and everyday products
 
 🌍 3. Country-Level Analysis
 -United Kingdom contributes 92% of total orders
-
 -Major revenue contributors:
-
 -🇬🇧 United Kingdom
-
 -🇳🇱 Netherlands
-
 -🇮🇪 Ireland
-
 -🇩🇪 Germany
 
 📅 4. Monthly Revenue Trend
 -Steady growth across months
-
 -Peak revenue seen in November & December due to holiday shopping
 
 🎨 5. Additional Visuals
 -Heatmap: Avg Order Cost per Month
-
 -Pie Chart: Orders by Country
-
 -Bar Charts: Revenue Breakdown & Product-wise Sales
 
 🛠️ Tools & Technologies Used
@@ -106,15 +83,10 @@ Explore visuals: Revenue trends, product insights, country analysis, customer be
 
 📝 Business Value
 This dashboard helps retailers:
-
 -Identify top-selling products
-
 -Track monthly and yearly sales performance
-
 -Understand customer purchasing patterns
-
 -Improve inventory & pricing decisions
-
 -Prioritize markets and high-revenue regions
 
 📌 Repository Link
